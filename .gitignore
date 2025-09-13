@@ -1,0 +1,12 @@
+# entorno virtual
+.venv/
+# caches
+__pycache__/
+*.pyc
+
+# archivos sensibles / locales
+.env
+casino.db
+
+# logs
+*.log
